@@ -1,0 +1,23 @@
+
+GUÍA PARA NO TOCAR LOS COJONES POR WHATSAPP CON QUE NO ME FUNCIONA PORQUE ME FALTAN DEDOS EN LAS MANOS
+
+1. Descargar Xampp 5.6.8
+https://www.apachefriends.org/xampp-files/5.6.8/xampp-win32-5.6.8-0-VC11-installer.exe
+
+1bis. Nos aseguramos de haber descargado la 5.6.8 para que no nos pase lo de siempre
+
+2. Abrir Xampp 5.6.8 e instalar Apache, MySQL, PHP y phpMyAdmin
+
+3. Dar gracias al señor porque no hemos dado "Siguiente, siguiente, siguiente" instalando mierdas innecesarias.
+
+4. Abrir Xampp Control Panel y lanzar Apache y MySQL
+
+4bis. Si Skype o cualquier otra chorri aplicación te da problemas con Apache, primero la cierras. Después vuelves a abrir Apache y tras esto ya puedes volver a abrir Downloporn.
+
+5. Pulsar en "Admin" para MySQL y esto abrirá el localhost/phpmyadmin
+
+6. Crear la base de datos "furryfiesta". Servidor 127.0.0.1 -> Bases de datos -> Contejamiento utf8_general_ci -> Crear
+
+7. Dentro de la BBDD "furryfiesta" importar la BBDD "furryfiesta.sql". Para importar la BBDD.sql antes hay que crearla con el mismo nombre u os explotará en la cara, es decir paso 5.
+
+8. Empezar a hacer cosas
